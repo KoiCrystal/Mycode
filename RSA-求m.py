@@ -1,6 +1,7 @@
 import gmpy2
 import binascii
 n=
+#   http://www.factordb.com/   n不太大，在线分解
 p=gmpy2.mpz()
 q=gmpy2.mpz()
 c=gmpy2.mpz()
